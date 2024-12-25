@@ -49,7 +49,7 @@
   "dependencies": {
     "chalk": "4",
     "commander": "^12.1.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "figlet": "^1.7.0",
     "mongodb": "^6.6.2",
     "ts-import": "^4.0.0-beta.10",
